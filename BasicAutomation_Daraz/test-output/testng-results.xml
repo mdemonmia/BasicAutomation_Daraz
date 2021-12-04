@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-03T23:58:20 PST" name="Default suite" finished-at="2021-12-04T00:02:04 PST" duration-ms="223517">
+    <groups>
+    </groups>
+    <test started-at="2021-12-03T23:58:20 PST" name="Default test" finished-at="2021-12-04T00:02:04 PST" duration-ms="223517">
+      <class name="BasicAutomation.BasicAutomation_Daraz.TC_001_Test">
+        <test-method is-config="true" signature="SetDriver()[pri:0, instance:BasicAutomation.BasicAutomation_Daraz.TC_001_Test@729d991e]" started-at="2021-12-03T23:58:08 PST" name="SetDriver" finished-at="2021-12-03T23:58:20 PST" duration-ms="12469" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetDriver -->
+        <test-method signature="daraz()[pri:0, instance:BasicAutomation.BasicAutomation_Daraz.TC_001_Test@729d991e]" started-at="2021-12-03T23:58:21 PST" name="daraz" finished-at="2021-12-04T00:02:04 PST" duration-ms="223218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- daraz -->
+        <test-method is-config="true" signature="close()[pri:0, instance:BasicAutomation.BasicAutomation_Daraz.TC_001_Test@729d991e]" started-at="2021-12-04T00:02:04 PST" name="close" finished-at="2021-12-04T00:02:06 PST" duration-ms="1579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- BasicAutomation.BasicAutomation_Daraz.TC_001_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
